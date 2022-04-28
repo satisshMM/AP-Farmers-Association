@@ -110,7 +110,7 @@ include "includes/header.php";
 </section>
 
 
-<section class="map"></section>
+<!-- <section class="map"></section> -->
 
 
 <?php

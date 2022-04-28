@@ -3,8 +3,8 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/php; charset=UTF-8">
-  <meta name="description" content="Organic Food php Template">
-  <meta name="keywords" content="orgenik,organic,food,marketing,shop,product,organic food,farmer,agriculture,fruits,vegetables,healthy food,resposnsive,Fruits Shop, vegetable store">
+  <meta name="description" content="AP Farmers Association Template">
+  <meta name="keywords" content="ap, farmeres,association,organic,food,marketing,shop,product,organic food,agriculture,fruits,vegetables,healthy food,resposnsive,Fruits Shop, vegetable store">
   
   <meta name="author" content="themeturn.com">
 
@@ -42,7 +42,7 @@
         <div class="container">
             <nav class="navbar navbar-expand-lg">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/AP-farmers-logo.png" alt="Orgenik" class="img-fluid" style=" width:90px;">
+                    <img src="assets/images/AP-farmers-logo.png" alt="makersmind" class="img-fluid" style=" width:90px;">
                 </a>
 
                 <!-- Toggler -->
@@ -55,18 +55,9 @@
                 <div class="collapse navbar-collapse" id="navbarMenu">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                Home
-                            </a>
-                            <div class="dropdown-menu" aria-labelledby="navbar3">
-                                 <a class="dropdown-item " href="index.php">
-                                    Home-1
-                                </a>
-                                <a class="dropdown-item " href="index-2.php">
-                                    Home-2
-                                </a> 
-                            </div>
+                           <a href="index.php" class="nav-link js-scroll-trigger">Home</a>
                         </li>
+                        
                         <li class="nav-item ">
                             <a href="about.php" class="nav-link js-scroll-trigger">
                                 About
@@ -78,7 +69,7 @@
                                 Services
                             </a>
                         </li>
-                        <li class="nav-item dropdown">
+                        <!-- <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Blog
                             </a>
@@ -90,6 +81,11 @@
                                     Blog Single
                                 </a> 
                             </div>
+                        </li> -->
+                        <li class="nav-item ">
+                            <a href="gallery.php" class="nav-link js-scroll-trigger">
+                                Gallery
+                            </a>
                         </li>
                         <li class="nav-item ">
                             <a href="contact.php" class="nav-link">
@@ -112,3 +108,15 @@
         </div> <!-- / .container -->
     </div>
 </header>
+
+<!-- <a class="nav-link dropdown-toggle" href="#" id="navbar3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Home
+                            </a> -->
+                            <!-- <div class="dropdown-menu" aria-labelledby="navbar3">
+                                 <a class="dropdown-item " href="index.php">
+                                    Home
+                                </a>
+                                <a class="dropdown-item " href="index-2.php">
+                                    Home-2
+                                </a> 
+                            </div> -->

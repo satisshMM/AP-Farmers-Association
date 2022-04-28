@@ -1152,7 +1152,7 @@ FOOTER section
   background: #f1f6fa;
   display: inline-block;
   border-radius: 100%;
-  padding-top: 7px;
+  padding-top: 14px;
   color: #222;
 }
 
@@ -1441,6 +1441,7 @@ Fixed btm top
 .scroll-to-top.reveal {
   opacity: 1;
   visibility: visible;
+  
 }
 
 /*===================

@@ -19,11 +19,12 @@
 					<div class="footer-widget footer-contact mb-5 mb-lg-0">
 						<h5 class="widget-title">Services</h5>
 						<ul class="list-unstyled">
-							<li> <a href="#">Our Gallery</a></li>
-							<li> <a href="#">Solutions</a></li>
-							<li> <a href="#">Our Farmers</a></li>
-							<li> <a href="#">Privacy Policy</a></li>
+							<li> <a href="#">Direct Marketing</a></li>
+							<li> <a href="#">Organic Agriculture</a></li>
+							<li> <a href="#">Seed Suggestions</a></li>
+							<li> <a href="#">Roof Cultivation</a></li>
 						</ul>
+
 					</div>
 				</div>
 				
@@ -34,7 +35,7 @@
 							<li> <i class="fa fa-map-marker"></i>Moon Street Light Avenue, 14/05</li>
 							<li> <i class="fa fa-envelope"></i>info@yourdomain.com</li>
 							<li><i class="fa fa-phone"></i>(68) 345 5902</li>
-							<li><i class="fa fa-globe"></i>www.website.com</li>
+							
 						</ul>
 					</div>
 				</div>
@@ -44,12 +45,12 @@
 						<h5 class="widget-title">Gallery</h5>
 						<div class="footer-gallery">
 							<ul>
-								<li><img src="assets/images/gallery/g1.jpg" alt="" class="img-fluid"></li>
-								<li><img src="assets/images/gallery/g2.jpg" alt="" class="img-fluid"></li>
-								<li><img src="assets/images/gallery/g3.jpg" alt="" class="img-fluid"></li>
-								<li><img src="assets/images/gallery/g2.jpg" alt="" class="img-fluid"></li>
-								<li><img src="assets/images/gallery/g3.jpg" alt="" class="img-fluid"></li>
-								<li><img src="assets/images/gallery/g1.jpg" alt="" class="img-fluid"></li>
+								<li><img src="assets/images/gallery-images/1.jpg" alt="" class="img-fluid" style="height:75px;width:100px;"></li>
+								<li><img src="assets/images/gallery-images/2.webp" alt="" class="img-fluid" style="height:75px;width:100px;"></li>
+								<li><img src="assets/images/gallery-images/3.jpg" alt="" class="img-fluid" style="height:75px;width:100px;"></li>
+								<li><img src="assets/images/gallery-images/4.jpg" alt="" class="img-fluid" style="height:75px;width:100px;"></li>
+								<li><img src="assets/images/gallery-images/5.webp" alt="" class="img-fluid" style="height:75px;width:100px;"></li>
+								<li><img src="assets/images/gallery-images/6.jpg" alt="" class="img-fluid"style="height:75px;width:100px;"></li>
 							</ul>
 						</div>
 					</div>
@@ -63,7 +64,7 @@
 			<div class="row copyright-bg">
 				<div class="col-lg-6">
 					<div class="copyright text-lg-left text-center">
-						<p>&copy; Copyright reserved to <a href="themeturn.php">Orgenik</a>by Dreambuzz-2020</p>
+						<p >&copy; Copyright 2022 reserved to <a style="color:green" href="https://makersmind.in/">Makers Mind Soft Solutions Pvt Ltd</a></p>
 					</div>
 				</div>
 				<div class="col-lg-6">

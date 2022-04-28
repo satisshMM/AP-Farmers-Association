@@ -23,7 +23,7 @@ include "includes/header.php";
   </div>
 </section>
 
-<section class="order-booking section-padding pb-0">
+<!-- <section class="order-booking section-padding pb-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
@@ -68,7 +68,7 @@ include "includes/header.php";
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="about">
     <div class="container">
         <div class="row align-items-center">
@@ -103,9 +103,9 @@ include "includes/header.php";
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section-heading">
-                    <h4 class="subheading">Order </h4>
+                    <h4 class="subheading">Our Team </h4>
                     <span class="subtitle">How We works</span>
-                    <h2>Working Process to<span> get started</span></h2>
+                    <h2>Our Team</h2>
                 </div>
             </div>
         </div>
@@ -125,20 +125,7 @@ include "includes/header.php";
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <img src="assets/images/team/team3.jpg" alt="" class="img-fluid">
-                    <div class="team-info">
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Tanvir Hasan</h4>
-                        <p>Organic Farmer</p>
-                    </div>
-                </div>
-            </div>
+           
             <div class="col-lg-3 col-md-6">
                 <div class="team-item">
                     <img src="assets/images/team/team2.jpg" alt="" class="img-fluid">
@@ -153,49 +140,9 @@ include "includes/header.php";
                     </div>
                 </div>
             </div>
-             <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <img src="assets/images/team/team1.jpg" alt="" class="img-fluid">
-                    <div class="team-info">
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Mikele John</h4>
-                        <p>Organic Farmer</p>
-                    </div>
-                </div>
-            </div>
+          
 
-             <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <img src="assets/images/team/team2.jpg" alt="" class="img-fluid">
-                    <div class="team-info">
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Harish Ham</h4>
-                        <p>Superviser</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-                <div class="team-item">
-                    <img src="assets/images/team/team1.jpg" alt="" class="img-fluid">
-                    <div class="team-info">
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Tanvir Hasan</h4>
-                        <p>Organic Farmer</p>
-                    </div>
-                </div>
-            </div>
+        
             <div class="col-lg-3 col-md-6">
                 <div class="team-item">
                     <img src="assets/images/team/team4.jpg" alt="" class="img-fluid">
@@ -227,19 +174,7 @@ include "includes/header.php";
         </div>
     </div>
 </section>
-<section class="cta-2 section-padding">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="section-heading">
-                    <span class="subtitle">Welcome to store</span>
-                    <h2>Want To Get Out Natural Organic Food Visit Our store?</h2>
-                    <a href="#" class="btn btn-main">Contact Us<i class="ti-angle-right"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <?php
 include "includes/footer.php";
 ?>

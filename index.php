@@ -6,18 +6,18 @@ include "includes/header.php";
         <div class="row align-items-center">
             <div class="col-md-12 col-lg-8">
                 <div class="banner-content">
-                    <span class="subheading">50% OFF FOR ALL PRODUCT</span>
-                    <h1>Fresh Organic foods Live Healthily</h1>
-                    <p>Suitable for Organic Store, Organic Farming, Farm, Organic Food, Organic Food Shop, Dairy Farm, Bakery Shop</p>
+                    <!-- <span class="subheading">50% OFF FOR ALL PRODUCT</span> -->
+                    <h1>Let's Farm Together</h1>
+                    <p>Farm With Most Advanced Technologies. Sow High Quality Seeds. Get More Support From Us </p>
                     <div class="banner-btn">
-                        <a href="#" class="btn btn-main">See our farm<i class="ti-angle-right"></i></a>  
-                        <a href="#" class="btn btn-border">Our Services<i class="ti-angle-right"></i></a>  
+                        <!-- <a href="#" class="btn btn-main">See our farm<i class="ti-angle-right"></i></a>   -->
+                        <a href="service.php" class="btn btn-border">Our Services<i class="ti-angle-right"></i></a>  
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
                 <div class="banner-img">
-                    <img src="assets/images/banner/banner-img.png" alt="" >
+                    <img src="assets/images/banner/Hero-image.png" alt="" style="height:550px;width:550px;">
                 </div>
             </div>
         </div> <!-- / .row -->
@@ -40,7 +40,7 @@ include "includes/header.php";
                     </div>
                     <div class="feature-content">
                         <h4>100% Organic Food</h4>
-                        <p>Behind the word mountains countries Vokalia</p>
+                        <p>We suggest Farmers to use Organic Manures</p>
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@ include "includes/header.php";
                     </div>
                     <div class="feature-content">
                         <h4>Fresh Vegetables</h4>
-                        <p>Behind the word mountains countries Vokalia</p>
+                        <p>Live Vegetables from the Farms</p>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@ include "includes/header.php";
                     </div>
                     <div class="feature-content">
                         <h4>Natural Food</h4>
-                        <p>Behind the word mountains countries Vokalia</p>
+                        <p>We suggest Farmers to grow without any chemicals</p>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ include "includes/header.php";
 
 
 
-<section class="about">
+<!-- <section class="about">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-md-12">
@@ -97,20 +97,20 @@ include "includes/header.php";
                         <li><i class="ti-check"></i> Reduces weight</li>
                     </ul>
 
-                    <a href="#" class="btn btn-main">Our Services<i class="ti-angle-right"></i></a>
+                    <a href="service.php" class="btn btn-main">Our Services<i class="ti-angle-right"></i></a>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="service section-padding secondary-bg">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section-heading">
                     <h4 class="subheading">services</h4>
-                    <span class="subtitle">our solutions</span>
-                    <h2>Services We Provide <span>Benifited Health</span></h2>
+                    <!-- <span class="subtitle">our solutions</span> -->
+                    <h2>Services We Provide</h2>
                 </div>
             </div>
         </div>
@@ -120,11 +120,11 @@ include "includes/header.php";
                 <div class="service-item">
                     <div class="service-img">
                         <span>01</span>
-                        <img src="assets/images/services/services-1.png" alt="" class="img-fluid">
+                        <img src="assets/images/services/Farmer-crisis.jpeg" alt="" class="img-fluid" style="height:230px;width:400px;border-radius:50%">
                     </div>
-                    <h4>Fresh Vegetables</h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                    <a href="#" class="btn btn-main2">Learn More<i class="ti-angle-right"></i></a>
+                    <h4>Helping in Crisis</h4>
+                    <p style="padding-bottom:2rem;">It works as a bridge between the Farmers and the Government.</p>
+                    <!-- <a href="#" class="btn btn-main2">Learn More<i class="ti-angle-right"></i></a> -->
                 </div>
             </div>
 
@@ -132,11 +132,11 @@ include "includes/header.php";
                 <div class="service-item">
                     <div class="service-img">
                         <span>02</span>
-                        <img src="assets/images/services/services-2.png" alt="" class="img-fluid">
+                        <img src="assets/images/services/Direct-marketing.jpg" alt="" class="img-fluid" style="height:230px;width:400px;border-radius:50%">
                     </div>
-                    <h4>Natural Foods</h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                    <a href="#" class="btn btn-main2">Learn More<i class="ti-angle-right"></i></a>
+                    <h4>Direct Marketing</h4>
+                    <p style="padding-bottom:2rem;">It helps Farmers to Market directly in order to avoid a system of Mediation</p>
+                    <!-- <a href="#" class="btn btn-main2">Learn More<i class="ti-angle-right"></i></a> -->
                 </div>
             </div>
 
@@ -144,17 +144,17 @@ include "includes/header.php";
                 <div class="service-item">
                     <div class="service-img">
                         <span>03</span>
-                        <img src="assets/images/services/services-3.png" alt="" class="img-fluid">
+                        <img src="assets/images/services/Seed-suggestion.jpg" alt="" class="img-fluid" style="height:230px;width:400px;border-radius:50%">
                     </div>
-                    <h4>Fresh Meats</h4>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem</p>
-                    <a href="#" class="btn btn-main2"> Learn More<i class="ti-angle-right"></i></a>
+                    <h4>Seed Suggestions</h4>
+                    <p style="padding-bottom:2rem;">To suggest various kinds of seeds depending on soil</p>
+                    <!-- <a href="#" class="btn btn-main2"> Learn More<i class="ti-angle-right"></i></a> -->
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="cta">
+<!-- <section class="cta">
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
@@ -165,7 +165,7 @@ include "includes/header.php";
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="about section-padding">
     <div class="container">
         <div class="row align-items-center">
@@ -204,13 +204,13 @@ include "includes/header.php";
                         </div>
                     </div>
 
-                    <a href="#" class="btn btn-main2">Our Gallery<i class="ti-angle-right"></i></a>
+                    <a href="gallery.php" class="btn btn-main2">Our Gallery<i class="ti-angle-right"></i></a>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="order-booking ">
+<!-- <section class="order-booking ">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6">
@@ -245,8 +245,71 @@ include "includes/header.php";
             </div>
         </div>
     </div>
+</section> -->
+<section class="testimonial section-padding">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-4">
+                <div class="section-heading text-left">
+                    <span class="subtitle">Testimonials</span>
+                    <h2>what they say <span>about us</span></h2>
+                </div>
+            </div>
+
+            <div class="col-lg-8">
+                <div class="review owl-carousel owl-theme">
+                    <div class="review-item">
+                        <i class="fa fa-quote-left"></i>
+                        <p class="desc">AP Farmers Association provides more high quality samplings and led the growers to involve in Farming</p>
+                    
+                        <div class="client-wrap">
+                            <!-- <div class="client-img">
+                                <img src="assets/images/clients/test-1.jpg" alt="" class="img-fluid">
+                            </div> -->
+
+                            <div class="client-info">
+                                <h6>Ramya</h6>
+                                <p>Agriculturist</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="review-item">
+                        <i class="fa fa-quote-left"></i>
+                        <p class="desc">Good initiative from AP Farmers Association for the kind of crops yielding in short time with more productivity.</p>
+                    
+                        <div class="client-wrap">
+                            <!-- <div class="client-img">
+                                <img src="assets/images/clients/test-2.jpg" alt="" class="img-fluid">
+                            </div> -->
+
+                            <div class="client-info">
+                                <h6>Anjali </h6>
+                                <p>Agriculturalist</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="review-item">
+                        <i class="fa fa-quote-left"></i>
+                        <p class="desc">They helps The Famers when they're in Crisis and also providing them with high yielding crops in short span</p>
+                    
+                        <div class="client-wrap">
+                            <!-- <div class="client-img">
+                                <img src="assets/images/clients/test-3.jpg" alt="" class="img-fluid">
+                            </div> -->
+
+                            <div class="client-info">
+                                <h6>Ram Krishna</h6>
+                                <p>Farmer</p>
+                            </div>
+                        </div>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>
 </section>
-<section class="cta-2 section-padding pb-190">
+<!-- <section class="cta-2 section-padding pb-190">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
@@ -390,8 +453,8 @@ include "includes/header.php";
             </div>
         </div>
     </div>
-</section>
-<section class="blog-section section-padding">
+</section> -->
+<!-- <section class="blog-section section-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
@@ -461,8 +524,8 @@ include "includes/header.php";
             </div>
         </div>
     </div>
-</section>
-<section class="client-logo">
+</section> -->
+<!-- <section class="client-logo">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -477,7 +540,7 @@ include "includes/header.php";
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <?php
 include "includes/footer.php";
 ?>
