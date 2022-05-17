@@ -75,24 +75,23 @@ include "includes/header.php";
             <div class="col-lg-6 col-md-12">
                 <div class="about-img">
                     <img src="assets/images/bg/bg2.jpg" alt="" class="img-fluid">
-                    <a href="#" class="video-play"><i class="fa fa-play"></i></a>
+                    
                 </div>
              </div>
             <div class="col-lg-6 col-md-12">
                 <div class="section-heading text-left about-info">
                     <h4 class="subheading">About</h4>
-                    <span class="subtitle">our story</span>
-                    <h2>Healthy,tasty & <span>Fresh Organic Food</span></h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat, nesciunt reiciendis? Eligendi, 
-                        commodi omnis! Rem nulla quas adipisicing elit Sed ut perspiciatis</p>
-                    <ul>
+                    <span class="subtitle">About Us</span>
+                    <h2>About Us <span>In a Nutshell</span></h2>
+                    <p>AP Farmers Association aim is to bring together all the sectors that are interdependent in Agriculture. This association will bring together growers, technology providers, service sector workers, and policymakers from the Government to create synergies. This  will focus on exploring new business opportunities. We pledge to ensure that all persons are given equal access to our time, energy and financial resources. We will be active participants in building relationships, collaboration and supporting efforts to create diverse, equitable, and just food systems. AP Farmers Assaociation is a platform that will allow for a variety of innovations and advances in the Agriculture Sector to meet the requirements of the Indian Market.</p>
+                    <!-- <ul>
                         <li><i class="ti-check"></i> Natuaral Foods</li>
                         <li><i class="ti-check"></i> Improve Health</li>
                         <li><i class="ti-check"></i> Add strength and energy</li>
                         <li><i class="ti-check"></i> Reduces weight</li>
-                    </ul>
+                    </ul> -->
 
-                    <a href="#" class="btn btn-main">Our Services<i class="ti-angle-right"></i></a>
+                    <a href="service.php" class="btn btn-main">Our Services<i class="ti-angle-right"></i></a>
                 </div>
             </div>
         </div>
@@ -113,30 +112,30 @@ include "includes/header.php";
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="team-item">
-                    <img src="assets/images/team/team4.jpg" alt="" class="img-fluid">
+                    <img src="assets/images/team/Avatar.png" alt="" class="img-fluid">
                     <div class="team-info">
-                        <ul class="list-inline">
+                        <!-- <ul class="list-inline">
                             <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Harish Ham</h4>
-                        <p>Superviser</p>
+                        </ul> -->
+                        <h4>Solomon Raju O</h4>
+                        <!-- <p>Superviser</p> -->
                     </div>
                 </div>
             </div>
            
             <div class="col-lg-3 col-md-6">
                 <div class="team-item">
-                    <img src="assets/images/team/team2.jpg" alt="" class="img-fluid">
+                    <img src="assets/images/team/Avatar.png" alt="" class="img-fluid">
                     <div class="team-info">
-                        <ul class="list-inline">
+                        <!-- <ul class="list-inline">
                             <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Mikele John</h4>
-                        <p>Organic Farmer</p>
+                        </ul> -->
+                        <h4>Subhakar CH</h4>
+                        <!-- <p>Organic Farmer</p> -->
                     </div>
                 </div>
             </div>
@@ -145,29 +144,29 @@ include "includes/header.php";
         
             <div class="col-lg-3 col-md-6">
                 <div class="team-item">
-                    <img src="assets/images/team/team4.jpg" alt="" class="img-fluid">
+                    <img src="assets/images/team/Avatar.png" alt="" class="img-fluid">
                     <div class="team-info">
-                        <ul class="list-inline">
+                        <!-- <ul class="list-inline">
                             <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Mikele John</h4>
-                        <p>Organic Farmer</p>
+                        </ul> -->
+                        <h4>Ravi Reddy Eda</h4>
+                        <!-- <p>Organic Farmer</p> -->
                     </div>
                 </div>
             </div>
              <div class="col-lg-3 col-md-6">
                 <div class="team-item">
-                    <img src="assets/images/team/team3.jpg" alt="" class="img-fluid">
+                    <img src="assets/images/team/Avatar.png" alt="" class="img-fluid">
                     <div class="team-info">
-                        <ul class="list-inline">
+                        <!-- <ul class="list-inline">
                             <li class="list-inline-item"><a href="#"><i class="ti-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-twitter"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                        <h4>Mikele John</h4>
-                        <p>Organic Farmer</p>
+                        </ul> -->
+                        <h4>Rajababu Kaligita</h4>
+                        <!-- <p>Organic Farmer</p> -->
                     </div>
                 </div>
             </div>

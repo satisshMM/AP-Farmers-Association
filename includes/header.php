@@ -100,7 +100,7 @@
                         </div>
                         <div class="contact-text">
                             <span>Contact for support </span>
-                            <h4>34 345 23546</h4>
+                            <h4> +91 7416438147</h4>
                         </div>
                     </div>
                 </div> <!-- / .navbar-collapse -->

@@ -171,15 +171,15 @@ include "includes/header.php";
         <div class="row align-items-center">
              <div class="col-lg-5 col-md-12">
                <div class="about-img2">
-                   <img src="assets/images/bg/about1.png" alt="" class="img-fluid">
+                   <img style="height:400px;width:450px;" src="assets/images/banner/3.png" alt="" class="img-fluid">
                </div>
             </div>
             <div class="col-lg-6 col-md-12">
                 <div class="about-content">
                     <div class="section-heading text-left mb-3">
-                        <h4 class="subheading">About</h4>
-                        <span class="subtitle">our story</span>
-                        <h2>We are best organic <span>food provider</span></h2>
+                        <h4 class="subheading">vision</h4>
+                        <span class="subtitle">vision</span>
+                        <h2>Vision of AP Farmers Association</h2>
                     </div>
 
                     <div class="process-wrap">
@@ -188,8 +188,8 @@ include "includes/header.php";
                                 <i class="ti-check"></i>
                             </div>
                             <div class="process-text">
-                                <h5>100% Organic Products</h5>
-                                <p>Sorem ipsum dolor sit amet consecta dipisicing elit sed do eiusmod tempor incidide.</p>
+                                <h5>Purpose of Farmers Association</h5>
+                                <p>The basic mission of Farmers' associations is to represent farmers, in order to ensure their participation in the formulation and implementation of policies and agricultural development actions.</p>
                             </div>
                         </div>
 
@@ -198,8 +198,8 @@ include "includes/header.php";
                                 <i class="ti-check"></i>
                             </div>
                             <div class="process-text">
-                                <h5>Homegrown Goodness</h5>
-                                <p>Sorem ipsum dolor sit amet consecta dipisicing elit sed do eiusmod tempor incidide.</p>
+                                <h5>Importance</h5>
+                                <p>Farmers hold the backbone of the agricultural system.  The agricultural system will only run if there are crops being grown and harvested, so this where farmers come in.</p>
                             </div>
                         </div>
                     </div>

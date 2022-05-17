@@ -5,7 +5,7 @@
 				<div class="col-lg-4 mr-auto col-sm-6 col-md-6">
 					<div class="footer-widget footer-about mb-5 mb-lg-0">
 						<img src="assets/images/AP-farmers-logo.png" alt="Maxeo" class="img-fluid" style="height:100px; width:100px">
-						<p class="mt-3">Veniam Sequi molestias aut necessitatibus optio magni at natus accusamus . Nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+						<p class="mt-3">We envision a future in which diverse, vibrant urban and rural farming systems will be able to build human potential.</p>
 						<ul class="list-inline footer-socials">
 							<li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 							<li class="list-inline-item"> <a href="#"><i class="fab fa-twitter"></i></a></li>
@@ -32,9 +32,9 @@
 					<div class="footer-widget footer-contact mb-5 mb-lg-0">
 						<h5 class="widget-title">Contact</h5>
 						<ul class="list-unstyled">
-							<li> <i class="fa fa-map-marker"></i>Moon Street Light Avenue, 14/05</li>
-							<li> <i class="fa fa-envelope"></i>info@yourdomain.com</li>
-							<li><i class="fa fa-phone"></i>(68) 345 5902</li>
+							<li> <i class="fa fa-map-marker"></i>1-194/1,Edarapalli, Amalapuram, AP, 533201</li>
+							<li> <i class="fa fa-envelope"></i>andhraagro395@gmail.com</li>
+							<li><i class="fa fa-phone"></i>+91 7416438147</li>
 							
 						</ul>
 					</div>
